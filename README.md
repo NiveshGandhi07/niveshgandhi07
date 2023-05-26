@@ -1,6 +1,7 @@
 [![MasterHead](https://www.pinterest.ca/pin/1035898351775333667/)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nivesh</h1>
-<h3 align="center">I hope i like coding :)</h3>
+<h3 align="center">I hope i like coding :) 
+clearly not very good at it as u can see below :( imma fix this later :)</h3>
 img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gif">
 - 📫 How to reach me **nivesh.g07@gmail.com**
 
