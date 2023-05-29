@@ -1,6 +1,6 @@
 ![MasterHead](https://i.imgur.com/LVKvjL6.gif)
 <h1 align="center">Hi 👋, I'm Nivesh</h1>
-<h3 align="center">My name is Nivesh, and I am a passionate and ambitious individual with a deep love for coding and software development. As I embark on my journey into university, I am excited to expand my knowledge and skills in the world of programming, and I believe GitHub is the perfect platform to showcase my growth and contributions to the coding community.
+<h3 align="center">My name is Nivesh, and I am a passionate and ambitious individual with a deep love for coding and software development. As I embark on my journey into university, I am excited to expand my knowledge and skills in the world of programming, and I believe GitHub is the perfect platform to showcase my growth and contributions to the coding community. I would love to collaborate btw so hmu :)
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif">
