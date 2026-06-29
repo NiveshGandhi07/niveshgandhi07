@@ -8,12 +8,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a  Email: nivesh.g07@gmail.com
-  \href{mailto:nivesh.g07@gmail.com}{\underline{nivesh.g07@gmail.com}} $|$
-\href{https://www.linkedin.com/in/nivesh-gandhimathinathan-6b839a258/}{\underline{linkedin.com/in/NiveshG}} $|$
-\href{https://github.com/NiveshGandhi07}{\underline{github.com/NiveshG}} $|$
-\href{https://niveshgandhimathinathan.netlify.app/}{\underline{Portfolio}}></a>
-<a href="https://instagram.com/niveshzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niveshzz" height="30" width="40" /></a>
+  <!-- Email -->
+  <a href="mailto:nivesh.g07@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-nivesh.g07%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nivesh-gandhimathinathan-6b839a258/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-NiveshG-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
+  </a>
+  &nbsp;&nbsp;
+<p align="left">
+  🌐 <strong>Check out my website:</strong> 
+  <a href="https://niveshgandhimathinathan.netlify.app/" target="_blank">Portfolio</a> 🚀
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
