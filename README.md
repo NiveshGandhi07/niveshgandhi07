@@ -5,6 +5,8 @@
 - 📫 How to reach me **nivesh.g07@gmail.com**
 
 - ⚡ Fun fact **Hard stuck plat on valo**
+  
+- 🎸 Enjoy indie pop music and love playing instruments
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
