@@ -8,6 +8,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a  Email: nivesh.g07@gmail.com
+  \href{mailto:nivesh.g07@gmail.com}{\underline{nivesh.g07@gmail.com}} $|$
+\href{https://www.linkedin.com/in/nivesh-gandhimathinathan-6b839a258/}{\underline{linkedin.com/in/NiveshG}} $|$
+\href{https://github.com/NiveshGandhi07}{\underline{github.com/NiveshG}} $|$
+\href{https://niveshgandhimathinathan.netlify.app/}{\underline{Portfolio}}></a>
 <a href="https://instagram.com/niveshzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niveshzz" height="30" width="40" /></a>
 </p>
 
